@@ -1,3 +1,5 @@
+package co.edu.sena.semana2;
+
 /**
  * Programa de demostración del Sistema de Laboratorio Clínico Diagnóstico Plus
  * Ubicación: Bogotá, Localidad de Chapinero

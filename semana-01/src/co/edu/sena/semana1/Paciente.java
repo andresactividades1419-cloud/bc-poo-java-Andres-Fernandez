@@ -1,3 +1,6 @@
+package co.edu.sena.semana2;
+
+
 /**
  * Clase que representa un Paciente en el Laboratorio Clínico Diagnóstico Plus
  * @author andres fernandez
